@@ -107,3 +107,6 @@ quant_chart_master/
 
 정보 제공 및 학습 목적이며 **투자 자문이 아니다.** 모든 투자 책임은 본인에게 있다.
 데이터 출처: Yahoo Finance.
+
+<img width="884" height="1204" alt="image" src="https://github.com/user-attachments/assets/c0731b70-a8ee-4c81-b823-d535eddd6514" />
+
